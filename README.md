@@ -10,7 +10,7 @@ Any ESP8266-based board should work with the basic required components, but the 
 | Component | Purpose |
 | --- | --- |
 | ESP8266 | Gather WiFi data & control hardware modules
-<img src="[https://ae01.alicdn.com/kf/S5af4b45f307d4738aaac4a2c3c0ed205m/ESP32-ESP8266-ESP-12-ESP-12F-CH340G-CH340-S2-TYPE-C-USB-For-WeMos-D1-Mini.jpg]">
+<img src="https://ae01.alicdn.com/kf/S5af4b45f307d4738aaac4a2c3c0ed205m/ESP32-ESP8266-ESP-12-ESP-12F-CH340G-CH340-S2-TYPE-C-USB-For-WeMos-D1-Mini.jpg">
 | SD Reader | Store data that we can analyze with WiGLE / Python |
 | GPS Module | Grab geolocation data + timestamp |
 

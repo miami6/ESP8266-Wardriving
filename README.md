@@ -21,6 +21,8 @@ ESP8266 | Gather WiFi data & control hardware modules
  
 | GPS Module | Grab geolocation data + timestamp |
 
+
+<img src="https://ae01.alicdn.com/kf/H3a7b846cab8f4a1c853fc69ccdf31d30x.jpg_640x640Q90.jpg">
 **Optional Components:**
 | Component | Purpose | 
 | --- | --- |

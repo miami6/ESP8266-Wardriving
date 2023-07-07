@@ -6,12 +6,19 @@ Documentation on this page is still in development.
 ## Components
 Any ESP8266-based board should work with the basic required components, but the D1 mini form factor is highly recommended since using modules (such as for SD logging + battery management) can be done using plug-and-play hardware in a small footprint. All linked components are D1 mini compatible. 
 
-**Required Components:**
-| Component | Purpose |
-| --- | --- |
-| ESP8266 | Gather WiFi data & control hardware modules
+ Components:
+
+ESP8266 | Gather WiFi data & control hardware modules
 <img src="https://ae01.alicdn.com/kf/S5af4b45f307d4738aaac4a2c3c0ed205m/ESP32-ESP8266-ESP-12-ESP-12F-CH340G-CH340-S2-TYPE-C-USB-For-WeMos-D1-Mini.jpg">
-| SD Reader | Store data that we can analyze with WiGLE / Python |
+
+ 
+ 
+ SD Reader | Store data that we can analyze with WiGLE / Python 
+
+
+<img src="https://ae01.alicdn.com/kf/HTB1GWcYXAL0gK0jSZFtq6xQCXXaZ.jpg_640x640Q90.jpg">
+
+ 
 | GPS Module | Grab geolocation data + timestamp |
 
 **Optional Components:**
